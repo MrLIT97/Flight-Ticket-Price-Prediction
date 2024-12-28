@@ -42,7 +42,7 @@ Python
 2. Target Transformation with Quantile and Log Transformation on target variable to normalized skewness
 3. Model building with Pipeline
 4. Optimization approach:
-    * Feature Selection
+    * Feature Selection using K-Best and Mutual Info Regression
     * Model comparison
 
 ## Models Selected: (Dealing with Regression since target variable is continuous)
