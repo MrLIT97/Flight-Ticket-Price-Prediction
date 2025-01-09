@@ -6,7 +6,7 @@ The dataset was collected from kaggle (https://www.kaggle.com/datasets/shubhamba
 
 airline - the airline providing the service
 
-flight - the unique identity for each flight booking
+flight - the unique identity for each flight
 
 source_city - where the trip starts
 
