@@ -58,4 +58,4 @@ price - Ticket price
 5. R2 Score
 
 ## Result: 
-Random Fores Regressor performs the best with least error (98.5% R2_score and 18% MAPE) and thus chosen as the viable model.
+Random Fores Regressor performs the best with least error (98.5% R2_score and 18.7% MAPE) and thus chosen as the viable model.
