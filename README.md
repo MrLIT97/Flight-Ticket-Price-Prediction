@@ -2,7 +2,7 @@
 Introduction: This project focuses on the application of python tools to analyze the different factors affecting ticket price variation in the given dataset. Question were answered through EDA and a viable predicion model was developed. This is aimed at guiding indivuals looking to book a flight in the future on decision making and could also help airlines improve on their services through an "Ease My Trip" website.
 
 ## Dataset Description:
-The dataset was collected from kaggle (https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction). It is a mixture of continuous and discrete variables with 300,153 observations, 11 features and 1 target that are outlined as follows:
+The dataset was collected from [kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction). It is a mixture of continuous and discrete variables with 300,153 observations, 11 features and 1 target that are outlined as follows:
 
 airline - the airline providing the service
 
