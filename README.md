@@ -34,7 +34,7 @@ price - Ticket price
 - Machine Learning modeling and Optimization
 
 ## Tool used:
-Python
+[Python](https://github.com/MrLIT97/Flight-Ticket-Price-Prediction/blob/main/Flight%20Ticket%20price%20Prediction%201-Copy1.ipynb)
   
 ## Machine Learning methods:
 
